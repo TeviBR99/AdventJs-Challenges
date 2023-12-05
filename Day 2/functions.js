@@ -25,6 +25,7 @@ manufacture(gifts, materials) // []
 const gifts = ['libro', 'ps5']
 const materials = 'psli'
 
+
 function manufacture(gifts, materials) {
   let results = [];
   for(let i=0; i<gifts.length; i++){
